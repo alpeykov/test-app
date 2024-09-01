@@ -1,5 +1,5 @@
 # Test App - Setup and Testing Guide 
-This test app is required to be set up locally in order to run [_qunit-tests-test-app_](https://github.com/alpeykov/qunit-tests-test-app/blob/master/README.md) and [_playwright-tests-test-app_](https://github.com/alpeykov/playwright-tests-test-app/blob/master/README.md).
+The test app is required to be set up locally in order to run [_qunit-tests-test-app_](https://github.com/alpeykov/qunit-tests-test-app/blob/master/README.md) and [_playwright-tests-test-app_](https://github.com/alpeykov/playwright-tests-test-app/blob/master/README.md).
 If the app is not setup on your local envyronment, the tests won't be executed. 
 
 
