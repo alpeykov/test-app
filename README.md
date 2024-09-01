@@ -11,14 +11,7 @@
 - npm run server
 - npm run start
 
+
 **Access the test app**
 App Url:
 http://localhost:3000/
-=======
-cd test-app
-npm install
-npm run server
-npm run start
-
-**Access the test app**
-ghttp://localhost:3000/
