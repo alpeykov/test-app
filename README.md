@@ -5,7 +5,7 @@
 - npm 
 
 **Setting Up the App locally**
-git clone https://github.com/alpeykov/test-app.git
+- git clone https://github.com/alpeykov/test-app.git
 cd test-app
 npm install
 npm run server
