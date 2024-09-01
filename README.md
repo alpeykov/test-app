@@ -5,11 +5,12 @@
 - npm 
 
 **Setting Up the App locally**
-git clone https://github.com/alpeykov/test-app.git
-cd test-app
-npm install
-npm run server
-npm run start
+- git clone https://github.com/alpeykov/test-app.git
+- cd test-app
+- npm install
+- npm run server
+- npm run start
 
 **Access the test app**
-ghttp://localhost:3000/
+App Url:
+http://localhost:3000/
