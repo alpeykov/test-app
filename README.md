@@ -12,11 +12,4 @@ npm run server
 npm run start
 
 **Access the test app**
-App Url:
-http://localhost:3000/
-
-
-
-
-
-
+ghttp://localhost:3000/
